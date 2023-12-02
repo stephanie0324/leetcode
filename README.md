@@ -18,6 +18,7 @@ If you find it helpful, you can fork it or leave some comments if you have bette
 <details>
 <summary>Leetcode Solutions</summary>
 <ul>
+  <li> <a href="https://github.com/stephanie0324/leetcode/tree/main/Leetcode_Solutions/0200-0299"> 200-299 </a> </li>
   <li> <a href="https://github.com/stephanie0324/leetcode/tree/main/Leetcode_Solutions/0300-0399"> 300-399 </a> </li>
   <li> <a href="https://github.com/stephanie0324/leetcode/tree/main/Leetcode_Solutions/1400-1499"> 1400-1499 </a> </li>
 </ul>
