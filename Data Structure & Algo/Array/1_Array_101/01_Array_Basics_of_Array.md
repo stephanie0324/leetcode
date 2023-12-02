@@ -3,7 +3,7 @@
 > An array is a collection of similar data elements stored at contiguous memory locations. It is the simplest data structure **where each data element can be accessed directly by only using its index number.**  
 
 <p align="center">
-    <img width="500" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/array.png" alt>
+    <img width="500" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/array.png" alt>
     <br>
     <em>Array</em>
 </p>
@@ -18,7 +18,7 @@
 ## 1.1 Multi-Dimension Array
 The arrays mentioned above only have one dimension, and their data elements are also single subscript variables. However, in practical problems, a lot of information is two-dimensional or multi-dimensional, the one-dimensional arrays no longer meet our needs, hence the emergence of multi-dimensional arrays.  
 <p align="center">
-    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/2d_array.png">
+    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/2d_array.png">
     <br>
     <em>2D Array</em>
 </p>
@@ -68,7 +68,7 @@ We can divide this operation into 2 kinds:
 > #### Time complexity : O(1)
 
 <p align="center">
-    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/append.png">
+    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/append.png">
     <br>
     <em>append</em>
 </p>
@@ -78,7 +78,7 @@ We can divide this operation into 2 kinds:
 2. than we insert the value at $i$
 > #### Time complexity: O(N).
 <p align="center">
-    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/insert.png">
+    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/insert.png">
     <br>
     <em>insert</em>
 </p>
@@ -90,7 +90,7 @@ We want to update the value of $i$ into $v'$
 2. update the value of $i$
 > #### Time complexity: O(1).  
 <p align="center">
-    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/change_val.png">
+    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/change_val.png">
     <br>
     <em>change value</em>
 </p>
@@ -103,7 +103,7 @@ We can divide this operation into 3 scenarios:
 ### 2.5.1 delete the last element $\rightarrow$ `pop`
 > #### Time complexity: O(1).
 <p align="center">
-    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/pop.png">
+    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/pop.png">
     <br>
     <em>pop</em>
 </p>
@@ -114,7 +114,7 @@ We can divide this operation into 3 scenarios:
 3. len(Arr) = len(Arr)-1
 > #### Time complexity: O(N).  
 <p align="center">
-    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/delete.png">
+    <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/delete.png">
     <br>
     <em>delete</em>
 </p>
