@@ -1,6 +1,4 @@
 # Leetcode Cracker
-> 👍 Success
-> 
 > 🐶 Hi, it's Steph. 🐶   
 > This is a note to doc my [leetcode](https://leetcode.com/) solving methods and some data structure , algo scribbles. 
 > My main priority is to explain the solutions in a understandable way and doc multiple approach, and also figure things out to crack leetcode and coding interviews.  
