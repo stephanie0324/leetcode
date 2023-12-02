@@ -86,7 +86,7 @@ We can divide this operation into 2 kinds:
 
 ## 2.4 Changing the Value
 We want to update the value of $i$ into $v'$
-1. check if 0 <= i<= len(Arr)
+1. check if 0 <= i <= len(Arr)
 2. update the value of $i$
 > #### Time complexity: O(1).  
 <p align="center">
@@ -110,7 +110,7 @@ We can divide this operation into 3 scenarios:
 
 ### 2.5.2 delete element of $i$ th index
 1. check if $i$ is valid
-2. pop $i$th val, and move the i+1 elements to the left
+2. pop $i$ th val, and move the i+1 elements to the left
 3. len(Arr) = len(Arr)-1
 > #### Time complexity: O(N).  
 <p align="center">
