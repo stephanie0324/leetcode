@@ -113,7 +113,6 @@ We can divide this operation into 3 scenarios:
 2. pop $i$th val, and move the i+1 elements to the left
 3. len(Arr) = len(Arr)-1
 > #### Time complexity: O(N).  
-=
 <p align="center">
     <img width="300" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure/Array/1_Array_101/delete.png">
     <br>
