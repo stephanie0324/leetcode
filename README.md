@@ -11,18 +11,17 @@ If you find it helpful, you can fork it or leave some comments if you have bette
 
 # Table of Contents
 <details>
-<summary>Data Structure</summary>
-* [Array]()
-</details>
-
-<details>
-<summary>Algorithms</summary>
-* 
+<summary>Data Structure & Algos</summary>
+<ul>
+  <li> <a href="https://github.com/stephanie0324/leetcode/tree/main/Data%20Structure/Array"> Array </a> </li>
+</ul>
 </details>
 
 <details>
 <summary>Leetcode Solutions</summary>
-* 
+<ul>
+  <li> <a href="https://github.com/stephanie0324/leetcode/tree/main/Data%20Structure/Array"> Array </a> </li>
+</ul>
 </details>
 
 # Study Plans
