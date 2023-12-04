@@ -11,7 +11,7 @@ If you find it helpful, you can fork it or leave some comments if you have bette
 <details>
 <summary>Data Structure & Algos</summary>
 <ul>
-  <li> <a href="https://github.com/stephanie0324/leetcode/tree/main/Data%20Structure%20%26%20Algo/Arrayy"> Array </a> </li>
+  <li> <a href="https://github.com/stephanie0324/leetcode/tree/main/Data%20Structure%20%26%20Algo/Array"> Array </a> </li>
 </ul>
 </details>
 
