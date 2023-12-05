@@ -1,6 +1,10 @@
+## Table of contents  
+[1. Info](1.-info)  
+[2. Basic Operation on Array](2.-basix-operation-on-array)  
+[3. Summary](3.-summary)
 
 # 1. Info
-> An array is a collection of similar data elements stored at contiguous memory locations. It is the simplest data structure **where each data element can be accessed directly by only using its index number.**  
+An array is a collection of similar data elements stored at contiguous memory locations. It is the simplest data structure **where each data element can be accessed directly by only using its index number.**  
 
 <p align="center">
     <img width="500" src="https://github.com/stephanie0324/leetcode/blob/main/Data%20Structure%20%26%20Algo/Array/1_Array_101/array.png" alt>
@@ -9,11 +13,11 @@
 </p>
 
 ### Array consists of:
-> * starting address
-> * dimension
-> * index upper and lower bound (len of the array)
-> * num of the val
-> * array type, e.g.: int ,string, float...
+* starting address
+* dimension
+* index upper and lower bound (len of the array)
+* num of the val
+* array type, e.g.: int ,string, float...
 
 ## 1.1 Multi-Dimension Array
 The arrays mentioned above only have one dimension, and their data elements are also single subscript variables. However, in practical problems, a lot of information is two-dimensional or multi-dimensional, the one-dimensional arrays no longer meet our needs, hence the emergence of multi-dimensional arrays.  
